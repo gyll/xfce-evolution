@@ -5,6 +5,6 @@ Blends well with 'elementary Xfce darkER' icon set and 'Noto Sans 9' fonts.
 -------
 Based on Ambiance gtk2, Adwaita gtk3, and Greybird xfwm4.
 
-Developed and tested on Xubuntu 17.04.
+Developed and tested on Xubuntu 17.04, 18.04 LTS
 
 Maintained at http://xfce-evolution.sourceforge.net
